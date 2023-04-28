@@ -43,4 +43,3 @@ samples, guidance on mobile development, and a full API reference.
  This command gives the list of the branches.
 - `git checkout branchname`
  This command is used to switch the branch.
-
