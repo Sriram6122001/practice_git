@@ -43,3 +43,7 @@ samples, guidance on mobile development, and a full API reference.
  This command gives the list of the branches.
 - `git checkout branchname`
  This command is used to switch the branch.
+- `git pull`
+ This command is used to pull the content from git repo to local machine
+- `git pull -r origin branchname`
+ This command is used to pull the content from different branch in the git repo to different branch in the local machine
