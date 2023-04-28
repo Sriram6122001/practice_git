@@ -35,3 +35,9 @@ samples, guidance on mobile development, and a full API reference.
  This command is used to add the cloud url to the local git, to push the commits
 - `git status`
  This command is used to check the status of the current repository.
+- `git commit -am "message"`
+ This command is used to add and commit changes simulataneously.
+- `git checkout -b branchname`
+ This command is used to create a new branch with given name having files of the parent branch.
+- `git branch`
+ This command gives the list of the branches.
